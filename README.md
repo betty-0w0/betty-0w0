@@ -6,6 +6,6 @@ Meu nome é yasmin (●'◡'●)
 
 - Estou estudando 📘
   
--Estou me desenvolvendo na linguagem JavaScript💻
+- Estou me desenvolvendo na linguagem JavaScript💻
 
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos📓🖍
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos📓🖍
